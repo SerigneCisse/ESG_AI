@@ -67,7 +67,7 @@ def make_files(base_dir, start_date, end_date):
 # COMMAND ----------
 
 start_date = "2020-12-01"
-end_date = "2020-12-02"
+end_date = "2021-08-08"
 make_files(base_dir, start_date, end_date)
 
 # COMMAND ----------
@@ -83,7 +83,7 @@ make_files(base_dir, start_date, end_date)
 # COMMAND ----------
 
 start_date = "2020-12-01"
-end_date = "2020-12-10"
+end_date = "2021-08-08"
 make_files(base_dir, start_date, end_date)
 
 # COMMAND ----------
@@ -117,7 +117,7 @@ make_files(base_dir, start_date, end_date)
 # COMMAND ----------
 
 start_date = "2020-06-12"
-end_date = "2020-12-12"
+end_date = "2021-08-08"
 make_files(base_dir, start_date, end_date)
 
 # COMMAND ----------
